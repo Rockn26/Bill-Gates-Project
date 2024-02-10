@@ -1,11 +1,11 @@
-.profile-container{
+.profile{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-.profile-container img {
+.profile img {
     border-radius: 50%;
 
 }

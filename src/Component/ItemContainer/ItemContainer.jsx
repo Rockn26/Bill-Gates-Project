@@ -4,7 +4,7 @@ function ItemContainer() {
 
     return (
       <>
-      <div className="item-main-container">
+      <div className="item-container">
         
       </div>
       </>

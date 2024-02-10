@@ -1,4 +1,4 @@
-.money-bar-container{ 
+.money-bar{ 
     display: flex;
     background-color: green;    
     justify-content: center;
@@ -7,6 +7,6 @@
 
 
 
-.money-bar-container h2 {
+.money-bar h2 {
     color: white;
 }

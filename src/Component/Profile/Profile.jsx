@@ -5,7 +5,7 @@ function Profile() {
 
   return (
     <>
-    <div className='profile-container'>
+    <div className='profile'>
         <img src="src/assets/billgates.jpg" alt="" />
         <h2>Spend Bill Gates' Money</h2>
     </div>

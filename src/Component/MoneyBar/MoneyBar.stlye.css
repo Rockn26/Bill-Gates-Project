@@ -1,0 +1,12 @@
+.money-bar-container{ 
+    display: flex;
+    background-color: green;    
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.money-bar-container h2 {
+    color: white;
+}
